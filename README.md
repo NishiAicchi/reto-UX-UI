@@ -1,7 +1,7 @@
 # RETO N°1
 explica qué partes conforman el UX y qué partes el UI.
 
-## Página elegida: YOUTUBE
+## Página elegida:
 ![YOUTUBE](assets/image/logo.png)
 
 ### que es UX?
